@@ -1,0 +1,18 @@
+
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center; 
+    background-color: black; 
+    color: #ffffff
+}
+
+hr{
+    background-color: black;
+}
+
+.imagem{
+    text-align:center;
+}
